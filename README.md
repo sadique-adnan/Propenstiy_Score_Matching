@@ -1,4 +1,4 @@
-# Propenstiy_Score_Matching
+# Propensity_Score_Matching
 
 1. Create the conda environment using yml file to execute the notebook <br/>
 conda env create --file psm.yml
